@@ -9,6 +9,8 @@ export default function page() {
       <br />
       <p>리베이스 사용하기 3</p>
       <br />
+      <p>리베이스 사용하기 4</p>
+      <br />
     </div>
   );
 }
