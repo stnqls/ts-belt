@@ -6,10 +6,9 @@ export default function Home() {
       <div className="flex flex-col gap-4">
         <Link href={"/ts-belt"}>ts-belt 페이지로 이동</Link>
       </div>
-
-      <div>리베이스 테스트 해보기</div>
-
-      <p>리베이스 어려움</p>
+      <p>김선호</p>
+      <p>고윤정</p>
+      <div>잘어울린당 우왕</div>
     </div>
   );
 }
