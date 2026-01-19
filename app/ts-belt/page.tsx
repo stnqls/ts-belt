@@ -2,7 +2,6 @@ export default function page() {
   return (
     <div>
       <h1>ts-belt</h1>
-
       <p>리베이스 사용하기 1</p>
       <br />
       <p>리베이스 사용하기 2</p>
@@ -12,6 +11,16 @@ export default function page() {
       <p>리베이스 사용하기 4</p>
       <br />
       <p>리베이스 사용하기 5</p>
+      <br />
+      <p>리베이스 사용하기 6</p>
+      <br />
+      <p>리베이스 사용하기 7</p>
+      <br />
+      <p>리베이스 사용하기 8</p>
+      <br />
+      <p>리베이스 사용하기 9</p>
+      <br />
+      <p>리베이스 사용하기 10</p>
       <br />
     </div>
   );
