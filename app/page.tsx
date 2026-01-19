@@ -1,4 +1,5 @@
 import dayjs from "dayjs";
+import Link from "next/link";
 
 export default function Home() {
   const orderDue = {
@@ -20,6 +21,10 @@ export default function Home() {
         {hours}시간 {minutes}분 내 결제시
       </span>
       <span></span>
+
+      <div className="flex flex-col gap-4">
+        <Link href={"/ts-belt"}>ts-belt</Link>
+      </div>
     </div>
   );
 }
